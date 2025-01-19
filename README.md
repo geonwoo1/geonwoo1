@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 안녕하세요! 저는 [이름]입니다.
+# 👋 안녕하세요! 저는 이건우입니다.
 
 ### 💻 Backend Developer | Problem Solver | Team Player  
 저는 **백엔드 개발자**로서 안정적이고 효율적인 시스템을 구축하는 데 열정을 가지고 있습니다.  
@@ -39,15 +39,6 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
-
-## 🌟 GitHub 통계
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=geonwoo1&show_icons=true&theme=radical" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geonwoo1&layout=compact&theme=radical" height="165" alt="Top Languages">
-</div>
-
-## 🔥 연속 커밋 기록
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=geonwoo1&theme=radical" alt="GitHub Streak">
 
 ## 📊 활동 그래프
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=geonwoo1&theme=radical" alt="GitHub Activity Graph">
