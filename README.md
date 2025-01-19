@@ -42,34 +42,20 @@ Here are some ideas to get you started:
 
 ## 🌟 GitHub 통계
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=geonwoo1&show_icons=true&theme=radical" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geonwoo1&layout=compact&theme=radical" height="165" alt="Top Languages">
 </div>
 
----
+## 🔥 연속 커밋 기록
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geonwoo1&theme=radical" alt="GitHub Streak">
 
-## 🗂️ 프로젝트
-### **1. [Globalize Service](https://github.com/YourRepoLink)**
-- **기술 스택**: TypeScript, NestJS, MySQL, AWS S3
-- **설명**: 유튜브 비디오 더빙 서비스를 지원하는 플랫폼 개발.  
-- **주요 성과**:
-  - 자동화된 주문 관리 시스템 구축.
-  - API 설계 및 CloudFront 적용으로 성능 최적화.
-
-### **2. [Netflix API Scheduler](https://github.com/YourRepoLink)**
-- **기술 스택**: PHP, Laravel, MySQL
-- **설명**: Netflix API와 통신하여 주문 상태를 관리하는 스케줄러 개발.  
-- **주요 성과**:
-  - 재주문 요청 자동화로 업무 효율성 향상.
-  - 알림 시스템 구축으로 팀 내 신뢰 확보.
+## 📊 활동 그래프
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geonwoo1&theme=radical" alt="GitHub Activity Graph">
 
 ---
 
 ## 📫 연락처
-- 📧 이메일: [YourEmail@example.com](mailto:YourEmail@example.com)
-- 💼 LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourLinkedInUsername)
-- 🌐 포트폴리오: [YourPortfolio](https://yourportfolio.com)
-
+- 📧 이메일: [rjsdn736@naver.com](mailto:YourEmail@example.com)
 ---
 
 ## 🧩 재미로 보는 코딩 성격
