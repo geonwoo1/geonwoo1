@@ -14,44 +14,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+# 👋 안녕하세요! 저는 [이름]입니다.
+
+### 💻 Backend Developer | Problem Solver | Team Player  
+저는 **백엔드 개발자**로서 안정적이고 효율적인 시스템을 구축하는 데 열정을 가지고 있습니다.  
+항상 새로운 기술을 배우고, 이를 실무에 적용하며 성장하고자 합니다.  
+
+---
+
+## 🛠 기술 스택
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🌟 GitHub 통계
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" height="165">
 </div>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+## 🗂️ 프로젝트
+### **1. [Globalize Service](https://github.com/YourRepoLink)**
+- **기술 스택**: TypeScript, NestJS, MySQL, AWS S3
+- **설명**: 유튜브 비디오 더빙 서비스를 지원하는 플랫폼 개발.  
+- **주요 성과**:
+  - 자동화된 주문 관리 시스템 구축.
+  - API 설계 및 CloudFront 적용으로 성능 최적화.
 
-<br>
+### **2. [Netflix API Scheduler](https://github.com/YourRepoLink)**
+- **기술 스택**: PHP, Laravel, MySQL
+- **설명**: Netflix API와 통신하여 주문 상태를 관리하는 스케줄러 개발.  
+- **주요 성과**:
+  - 재주문 요청 자동화로 업무 효율성 향상.
+  - 알림 시스템 구축으로 팀 내 신뢰 확보.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+## 📫 연락처
+- 📧 이메일: [YourEmail@example.com](mailto:YourEmail@example.com)
+- 💼 LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourLinkedInUsername)
+- 🌐 포트폴리오: [YourPortfolio](https://yourportfolio.com)
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+## 🧩 재미로 보는 코딩 성격
+[![코딩 성격 테스트](https://img.shields.io/badge/What%20is%20My%20Coding%20Personality%3F-Take%20the%20Test-orange)](https://codingame.com/coding-personality-test)
 
-<h3 align="c
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+---
+
+### "함께 성장하고 더 나은 코드를 만들어 나가고 싶습니다!"
+
