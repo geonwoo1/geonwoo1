@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 안녕하세요! 저는 이건우입니다.
+# 👋 안녕하세요! 백엔드 개발자 이건우입니다.
 
 ### 💻 Backend Developer | Problem Solver | Team Player  
 저는 **백엔드 개발자**로서 안정적이고 효율적인 시스템을 구축하는 데 열정을 가지고 있습니다.  
