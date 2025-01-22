@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 - 📧 이메일: [rjsdn736@naver.com](mailto:YourEmail@example.com)
 ---
 
-## 🧩 재미로 보는 코딩 성격
-[![코딩 성격 테스트](https://img.shields.io/badge/What%20is%20My%20Coding%20Personality%3F-Take%20the%20Test-orange)](https://codingame.com/coding-personality-test)
 
 ---
 
