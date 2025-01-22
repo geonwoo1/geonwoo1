@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 활동 그래프
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geonwoo1&theme=github" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geonwoo1&theme=github&max=10" alt="GitHub Activity Graph">
+
 
 ---
 
